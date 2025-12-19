@@ -64,16 +64,16 @@ export function useNavData() {
           // { title: t('app'), path: paths.dashboard.root, icon: ICONS.dashboard },
           // { title: t('ecommerce'), path: paths.dashboard.general.ecommerce, icon: ICONS.ecommerce },
           { title: t('Dashboard'), path: paths.dashboard.general.analytics, icon: ICONS.dashboard },
-          {
-            title: t('pending appointments'),
-            path: paths.dashboard.pendingAppointments.list,
-            icon: ICONS.appointment,
-          },
-           {
-            title: t('assigned issues'),
-            path: paths.dashboard.assignedIssues.list,
-            icon: ICONS.assign,
-          },
+          // {
+          //   title: t('pending appointments'),
+          //   path: paths.dashboard.pendingAppointments.list,
+          //   icon: ICONS.appointment,
+          // },
+          //  {
+          //   title: t('assigned issues'),
+          //   path: paths.dashboard.assignedIssues.list,
+          //   icon: ICONS.assign,
+          // },
           // { title: t('banking'), path: paths.dashboard.general.banking, icon: ICONS.banking },
           // { title: t('booking'), path: paths.dashboard.general.booking, icon: ICONS.booking },
           // { title: t('file'), path: paths.dashboard.general.file, icon: ICONS.file },
